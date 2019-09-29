@@ -3,3 +3,6 @@ node_modules
 
 # environment variable file
 .env
+
+# production file directory
+dist
